@@ -1,4 +1,5 @@
 /models/*
 /dataset/*
+/w2v/*
 *.csv
 
